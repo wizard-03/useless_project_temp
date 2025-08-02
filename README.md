@@ -1,96 +1,75 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# useless chat bot 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: wizard 
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Melvin Sabu -MBCCET
+- Member 2: Seba Mariam George- MBCCET
 
 ### Project Description
-[2-3 lines about what your project does]
+A useless chatbot is a funny or sarcastic bot designed to give unhelpful, irrelevant, or mocking replies. It doesn’t solve problems—just entertains by being intentionally unproductive .
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People are getting way too many correct answers from AI. It’s overwhelming. They’re becoming too productive. So, we created a chatbot that solves this non-problem by being completely useless — finally, a bot that won’t help you at all. 
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We proudly present a chatbot that replies with sarcasm, nonsense, or the exact opposite of what you want. Ask it anything — it’ll respond in another language, give a useless fact, or just roast you. Finally, a chatbot as unhelpful as your group chat admin.
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+Python (Flask) 
+HTML/CSS/JavaScript
+Emoji Pack / Unicode
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+ HTML/CSS
 
 # Run
-[commands]
+python app.py
+
 
 ### Project Documentation
-For Software:
+Frontend: HTML, CSS, JavaScript (for UI, typing effects, emojis)
 
+Backend: Python (Flask) – handles input, language flip, and sarcasm
+Tech Used:Python (Flask)
+HTML, CSS, JS
+Emoji + Typing Animation
+(Optional) Speech Synthesis API
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1909" height="988" alt="image" src="https://github.com/user-attachments/assets/40c1536a-945e-4546-8df5-03ae1c5af073" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1917" height="985" alt="image" src="https://github.com/user-attachments/assets/84f2d430-4019-4ca8-8460-a9b3a0723a15" />
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
+
+https://github.com/user-attachments/assets/0dd4d383-ed5f-441c-a71e-138ea548a65a
+
+
+User types a message → Bot detects the language → Replies in the opposite language with a sarcastic or useless one-liner → Shows fake typing and emojis 
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+-Melvin Sabu: UI/UX
+- Seba Mariam George : python implementation
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
